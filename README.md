@@ -1,3 +1,5 @@
+![FantaThumbnail](thumbnail.png)
+
 # Fanta the Clown Jokers Resource Pack!
 
 --- Art by Beverage --- v1.1
@@ -16,4 +18,5 @@ Brief list of Retextures:
 # Download Instructions:
 Requires Steammodded, Malverk, and Lovely. 
 Add Fanta-Jokers-main into your mod folder at %AppData%\Balatro\mods\.
+
 
