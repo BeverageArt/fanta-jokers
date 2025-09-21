@@ -4,12 +4,13 @@
 
 A resource pack that changes 96 of the 150 Jokers in the game and a couple other misc textures.
 Brief list of Retextures:
-	- 2 Vouchers
-	- 4 Seals
-	- 3 Booster Packs
-	- 3 Tags
-	- 2 Spectral Cards
-	- 95 Jokers
+
+- 2 Vouchers
+- 4 Seals
+- 3 Booster Packs
+- 3 Tags
+- 2 Spectral Cards
+- 95 Jokers
 
 
 # Download Instructions:
@@ -23,5 +24,6 @@ Code is GPLv3 and art is CC-BY-NC-SA 4.0 as per my usual
 
 
  
+
 
 
