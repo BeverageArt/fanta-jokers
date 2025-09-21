@@ -1,4 +1,4 @@
-#Fanta the Clown Jokers Resource Pack!
+# Fanta the Clown Jokers Resource Pack!
 
 --- Art by Beverage --- v1.1
 
@@ -23,4 +23,5 @@ Code is GPLv3 and art is CC-BY-NC-SA 4.0 as per my usual
 
 
  
+
 
