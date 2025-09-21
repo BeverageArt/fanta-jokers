@@ -14,16 +14,4 @@ Brief list of Retextures:
 
 
 # Download Instructions:
-Install Lovely, Steamodded, and get [Malverk](https://balatromods.miraheze.org/wiki/Malverk), then click the green [Code] button above then in that zip
-
-Now copy the **one** folder in the zip to %AppData%\Balatro\Mods\
-
-# License?
-
-Code is GPLv3 and art is CC-BY-NC-SA 4.0 as per my usual
-
-
- 
-
-
-
+Requires Steammodded, Malverk, and Lovely. Add Fanta-Jokers into your mod folder at %AppData%\Balatro\mods\.
