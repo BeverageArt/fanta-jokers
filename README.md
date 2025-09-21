@@ -12,11 +12,12 @@ Brief list of Retextures:
 - 3 Booster Packs
 - 3 Tags
 - 2 Spectral Cards
-- 95 Jokers
+- 96 Jokers
 
 
 # Download Instructions:
 Requires Steammodded, Malverk, and Lovely. 
 Add Fanta-Jokers-main into your mod folder at %AppData%\Balatro\mods\.
+
 
 
