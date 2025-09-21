@@ -14,4 +14,6 @@ Brief list of Retextures:
 
 
 # Download Instructions:
-Requires Steammodded, Malverk, and Lovely. Add Fanta-Jokers into your mod folder at %AppData%\Balatro\mods\.
+Requires Steammodded, Malverk, and Lovely. 
+Add Fanta-Jokers-main into your mod folder at %AppData%\Balatro\mods\.
+
